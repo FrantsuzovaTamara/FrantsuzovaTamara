@@ -19,3 +19,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrantsuzovaTamara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=FrantsuzovaTamara)](https://github.com/FrantsuzovaTamara/github-profile-trophy)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FrantsuzovaTamara)](https://git.io/streak-stats)
+
+## Контакты
+
+* [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamara-frantsuzova-8a6068259/)
+* ![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white) : t.f.66625262
+* ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) : @tamara_fr
+* Email: tamarafr@ntsuzova.ru
