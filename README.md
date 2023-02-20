@@ -20,7 +20,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=FrantsuzovaTamara)](https://github.com/FrantsuzovaTamara/github-profile-trophy)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FrantsuzovaTamara)](https://git.io/streak-stats)
 
-## Контакты
+## Контакты ┬┴┬┴┤(･_├┬┴┬┴
 
 * [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamara-frantsuzova-8a6068259/)
 * ![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white) : t.f.66625262
