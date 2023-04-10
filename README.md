@@ -18,7 +18,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrantsuzovaTamara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=FrantsuzovaTamara)](https://github.com/FrantsuzovaTamara/github-profile-trophy)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FrantsuzovaTamara)](https://git.io/streak-stats)
 
 ## Контакты ┬┴┬┴┤(･_├┬┴┬┴
 
