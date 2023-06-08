@@ -11,7 +11,7 @@
 ## Немного статистики °˖✧◝(⁰▿⁰)◜✧˖°
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrantsuzovaTamara&layout=compact)
-[![trophy](https://github-profile-trophy.vercel.app/?username=FrantsuzovaTamara)](https://github.com/FrantsuzovaTamara/github-profile-trophy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrantsuzovaTamara&show_icons=true&theme=gruvbox)
 
 ## Контакты ┬┴┬┴┤(･_├┬┴┬┴
 
