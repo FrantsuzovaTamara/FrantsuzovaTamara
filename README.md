@@ -10,7 +10,7 @@
 
 ## Немного статистики °˖✧◝(⁰▿⁰)◜✧˖°
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrantsuzovaTamara&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrantsuzovaTamara&layout=donut)](https://github.com/FrantsuzovaTamara/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrantsuzovaTamara&show_icons=true&theme=tokyonight)
 
 ## Контакты ┬┴┬┴┤(･_├┬┴┬┴
